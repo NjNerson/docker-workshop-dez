@@ -1,2 +1,2 @@
 # docker-workshop-dez
-codespace to practice with docker ad pytthon
+codespace to practice with docker and python for DE
